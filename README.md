@@ -7,8 +7,6 @@
 *  Estou localizado no Brasil - São José dos Pinhais - Paraná
 
 
-<hr>
-
 
 ## <p align="center"><strong>Skills</strong></p>
 
@@ -29,7 +27,6 @@
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=Arthur-devi&theme=dracula" />
 </div>
 
-<hr>
 
 ## <p align="center">Status</p>
 
