@@ -24,12 +24,12 @@
 
 <div align="center">
     <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=Arthur-devi&theme=dracula" />
 </div>
 
 
-## <p align="center">Status</p>
+## <span align="center">Status</span>
 
 <div align="center"> 
     <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Arthur-devi&show_icons=true&theme=dracula" alt="Arthur-devi's GitHub stats" /> <img width="450px" src="https://github-readme-streak-stats.herokuapp.com?user=Arthur-devi&theme=dracula&locale=pt-br"/>
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=Arthur-devi&theme=dracula" />
 </div>
