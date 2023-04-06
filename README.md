@@ -33,5 +33,5 @@
 ## <p align="center">Status</p>
 
 <div align="center"> 
-    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=Arthur-devi&show_icons=true&theme=dracula" alt="Arthur-devi's GitHub stats" /> <img width="350px" src="https://github-readme-streak-stats.herokuapp.com?user=Arthur-devi&theme=dracula&locale=pt-br"/> <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=Arthur-devi&theme=dracula" />
+    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=Arthur-devi&show_icons=true&theme=dracula" alt="Arthur-devi's GitHub stats" /> <img width="350px" src="https://github-readme-streak-stats.herokuapp.com?user=Arthur-devi&theme=dracula&locale=pt-br"/>
 </div>
