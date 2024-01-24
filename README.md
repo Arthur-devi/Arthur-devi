@@ -2,7 +2,7 @@
 
 <div align="center"><a target="_blank" href="https://www.linkedin.com/in/arthur-davi-santos-2243891a2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a target="_blank" href="mailto:arthurlag6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a></div>
 
-<p align="justify">Sou um estudante de Sistemas de Informação no 7º período da Faculdade da Indústria, localizada em São José dos Pinhais. Meu objetivo principal é me desenvolver profissionalmente na área de tecnologia, adquirindo conhecimentos em diversas áreas e aprendendo a transformar ideias em realidade.</p>
+<p align="justify">Sou um analista Sistemas formado pelo UniSenai, localizada em São José dos Pinhais. Meu objetivo principal é me desenvolver profissionalmente na área de tecnologia, adquirindo conhecimentos em diversas áreas e aprendendo a transformar ideias em realidade.</p>
 
 *  Estou localizado no Brasil - Paraná
 
