@@ -25,14 +25,10 @@
 
 <br>
 
-<div align="center">
-    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-</div>
-
 
 
 ## <p align="center">Status</p>
 
 <div align="center"> 
-    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=Arthur-devi&show_icons=true&theme=dracula" alt="Arthur-devi's GitHub stats" /> <img width="350px" src="https://github-readme-streak-stats.herokuapp.com?user=Arthur-devi&theme=dracula&locale=pt-br"/>
+    <img width="350px" src="https://github-readme-streak-stats.herokuapp.com?user=Arthur-devi&theme=dracula&locale=pt-br"/>
 </div>
