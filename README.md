@@ -56,53 +56,37 @@
 
 <img
   src="https://raw.githubusercontent.com/Arthur-devi/Arthur-devi/main/profile-summary-card-output/github_dark/0-profile-details.svg"
-  alt="Arthur GitHub Profile Details"
+  width="100%"
+  alt="GitHub Profile Details"
 />
 
-<br>
+<br><br>
 
 <img
   src="https://raw.githubusercontent.com/Arthur-devi/Arthur-devi/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
-  alt="Repositories per Language"
+  width="49%"
+  alt="Top Languages by Repo"
 />
-
 <img
   src="https://raw.githubusercontent.com/Arthur-devi/Arthur-devi/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
-  alt="Most Commit Language"
+  width="49%"
+  alt="Top Languages by Commit"
 />
 
 <br>
 
 <img
   src="https://raw.githubusercontent.com/Arthur-devi/Arthur-devi/main/profile-summary-card-output/github_dark/3-stats.svg"
+  width="49%"
   alt="GitHub Stats"
 />
-
 <img
   src="https://raw.githubusercontent.com/Arthur-devi/Arthur-devi/main/profile-summary-card-output/github_dark/4-productive-time.svg"
+  width="49%"
   alt="Productive Time"
 />
 
 </div>
 
 > As linguagens exibidas representam métricas dos repositórios e commits no GitHub e não necessariamente o nível de domínio em cada tecnologia.
-
 ---
-
-## Contato
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/arthur-davi-santos-2243891a2/">
-  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:arthurlag6@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="E-mail"/>
-</a>
-
-<a href="https://github.com/Arthur-devi">
-  <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/>
-</a>
-
-</div>
