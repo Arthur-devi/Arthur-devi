@@ -73,5 +73,4 @@
 
 </div>
 
-> As linguagens exibidas representam métricas dos repositórios e commits no GitHub e não necessariamente o nível de domínio em cada tecnologia.
 ---
