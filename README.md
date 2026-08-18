@@ -30,5 +30,5 @@
 ## <p align="center">Status</p>
 
 <div align="center"> 
-    [![Arthur's GitHub stats](https://github-stats-extended.vercel.app/api?username=Arthur-Devi)](https://github.com/stats-organization/github-stats-extended)
+    
 </div>
