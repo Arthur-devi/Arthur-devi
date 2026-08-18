@@ -60,8 +60,6 @@
   alt="GitHub Profile Details"
 />
 
-<br><br>
-
 <img
   src="https://raw.githubusercontent.com/Arthur-devi/Arthur-devi/main/profile-summary-card-output/github_dark/3-stats.svg"
   width="49%"
