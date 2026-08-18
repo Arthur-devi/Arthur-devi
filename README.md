@@ -63,19 +63,6 @@
 <br><br>
 
 <img
-  src="https://raw.githubusercontent.com/Arthur-devi/Arthur-devi/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
-  width="49%"
-  alt="Top Languages by Repo"
-/>
-<img
-  src="https://raw.githubusercontent.com/Arthur-devi/Arthur-devi/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
-  width="49%"
-  alt="Top Languages by Commit"
-/>
-
-<br>
-
-<img
   src="https://raw.githubusercontent.com/Arthur-devi/Arthur-devi/main/profile-summary-card-output/github_dark/3-stats.svg"
   width="49%"
   alt="GitHub Stats"
