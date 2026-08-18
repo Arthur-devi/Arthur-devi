@@ -30,5 +30,5 @@
 ## <p align="center">Status</p>
 
 <div align="center"> 
-    <img width="350px" src="https://github-readme-streak-stats.herokuapp.com?user=Arthur-devi&theme=dracula&locale=pt-br"/>
+    [![Arthur's GitHub stats](https://github-stats-extended.vercel.app/api?username=Arthur-Devi)](https://github.com/stats-organization/github-stats-extended)
 </div>
